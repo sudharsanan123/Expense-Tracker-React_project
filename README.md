@@ -23,4 +23,4 @@ It takes some time to deploy on your browser
 Open Terminal npm install react-scripts --save
 
 
-The page will reload when you make changes.![Screenshot 2023-03-17 181802](https://user-images.githubusercontent.com/109327528/225912100-162af41d-bb52-43d2-af67-4efbd6400937.png)
+![Screenshot 2023-03-17 181802](https://user-images.githubusercontent.com/109327528/225912534-1204651e-8140-47e0-9e16-bcc6bb0d2ead.png)
