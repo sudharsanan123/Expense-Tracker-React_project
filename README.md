@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 It takes some time to deploy on your browser
 
 ## `When you get Error like react-script not found`
-        follow these steps
-  Open Terminal npm install react-scripts --save
+       
+Open Terminal npm install react-scripts --save
 
