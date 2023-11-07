@@ -22,7 +22,8 @@ It takes some time to deploy on your browser
        
 Open Terminal npm install react-scripts --save
 
+![Screenshot 2023-11-07 230132](https://github.com/sudharsanan123/Expense-Tracker-React_project/assets/109327528/5cff7b50-944d-4b7c-9651-9da9d7aa9fdc)
 
-![Screenshot 2023-03-17 181802](https://user-images.githubusercontent.com/109327528/225912534-1204651e-8140-47e0-9e16-bcc6bb0d2ead.png)
+
 
 
